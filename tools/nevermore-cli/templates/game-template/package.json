@@ -7,7 +7,6 @@
     "Nevermore",
     "Lua"
   ],
-  "license": "UNLICENSED",
   "dependencies": {},
   "publishConfig": {
     "access": "restricted"
